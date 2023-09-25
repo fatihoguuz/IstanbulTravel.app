@@ -7,15 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D3D6DDB2AB6F71C00191A1A /* adalarDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D3D6DDA2AB6F71C00191A1A /* adalarDetailsVC.swift */; };
 		3D4A42402AAB9991005829E3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4A423F2AAB9991005829E3 /* AppDelegate.swift */; };
 		3D4A42422AAB9991005829E3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4A42412AAB9991005829E3 /* SceneDelegate.swift */; };
 		3D4A42442AAB9991005829E3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4A42432AAB9991005829E3 /* ViewController.swift */; };
 		3D4A42472AAB9991005829E3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D4A42452AAB9991005829E3 /* Main.storyboard */; };
 		3D4A42492AAB9994005829E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D4A42482AAB9994005829E3 /* Assets.xcassets */; };
 		3D4A424C2AAB9994005829E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D4A424A2AAB9994005829E3 /* LaunchScreen.storyboard */; };
+		3DA5B3852AB0A2CE0056E1E9 /* travel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA5B3842AB0A2CE0056E1E9 /* travel.swift */; };
+		3DA5B3872AB609A50056E1E9 /* mainMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA5B3862AB609A50056E1E9 /* mainMenu.swift */; };
+		3DA5B3892AB60B910056E1E9 /* adalarTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA5B3882AB60B910056E1E9 /* adalarTableView.swift */; };
+		3DC0F7ED2AC0088400035B54 /* besiktasTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F7EC2AC0088400035B54 /* besiktasTableView.swift */; };
+		3DC0F7F12AC0203900035B54 /* besiktasDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F7F02AC0203900035B54 /* besiktasDetailsVC.swift */; };
+		3DC0F7F32AC0317600035B54 /* beykozTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F7F22AC0317600035B54 /* beykozTableView.swift */; };
+		3DC0F7F52AC0319200035B54 /* beykozDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F7F42AC0319200035B54 /* beykozDetailsVC.swift */; };
+		3DC0F7F72AC03C8500035B54 /* kadikoyTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F7F62AC03C8500035B54 /* kadikoyTableView.swift */; };
+		3DC0F7F92AC03F9600035B54 /* kadikoyDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F7F82AC03F9600035B54 /* kadikoyDetailsVC.swift */; };
+		3DC0F7FB2AC0AF0B00035B54 /* fatihTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F7FA2AC0AF0B00035B54 /* fatihTableView.swift */; };
+		3DC0F7FD2AC0AF2300035B54 /* fatihDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F7FC2AC0AF2300035B54 /* fatihDetailsVC.swift */; };
+		3DC0F7FF2AC0BDF500035B54 /* sariyerTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F7FE2AC0BDF500035B54 /* sariyerTableView.swift */; };
+		3DC0F8012AC0BE0A00035B54 /* sariyerDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F8002AC0BE0A00035B54 /* sariyerDetailsVC.swift */; };
+		3DC0F8032AC0CA0E00035B54 /* sileTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F8022AC0CA0E00035B54 /* sileTableView.swift */; };
+		3DC0F8052AC0CA2200035B54 /* sileDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F8042AC0CA2200035B54 /* sileDetailsVC.swift */; };
+		3DC0F8072AC0CA3C00035B54 /* uskudarTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F8062AC0CA3C00035B54 /* uskudarTableView.swift */; };
+		3DC0F8092AC0CA5500035B54 /* uskudarDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC0F8082AC0CA5500035B54 /* uskudarDetailsVC.swift */; };
+		3DFCC5AC2AADA2E100441200 /* WelcomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFCC5AB2AADA2E100441200 /* WelcomeVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3D3D6DDA2AB6F71C00191A1A /* adalarDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adalarDetailsVC.swift; sourceTree = "<group>"; };
 		3D4A423C2AAB9991005829E3 /* IstanbulTravel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IstanbulTravel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D4A423F2AAB9991005829E3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D4A42412AAB9991005829E3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +44,24 @@
 		3D4A42482AAB9994005829E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D4A424B2AAB9994005829E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D4A424D2AAB9994005829E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DA5B3842AB0A2CE0056E1E9 /* travel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = travel.swift; sourceTree = "<group>"; };
+		3DA5B3862AB609A50056E1E9 /* mainMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainMenu.swift; sourceTree = "<group>"; };
+		3DA5B3882AB60B910056E1E9 /* adalarTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adalarTableView.swift; sourceTree = "<group>"; };
+		3DC0F7EC2AC0088400035B54 /* besiktasTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = besiktasTableView.swift; sourceTree = "<group>"; };
+		3DC0F7F02AC0203900035B54 /* besiktasDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = besiktasDetailsVC.swift; sourceTree = "<group>"; };
+		3DC0F7F22AC0317600035B54 /* beykozTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = beykozTableView.swift; sourceTree = "<group>"; };
+		3DC0F7F42AC0319200035B54 /* beykozDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = beykozDetailsVC.swift; sourceTree = "<group>"; };
+		3DC0F7F62AC03C8500035B54 /* kadikoyTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kadikoyTableView.swift; sourceTree = "<group>"; };
+		3DC0F7F82AC03F9600035B54 /* kadikoyDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kadikoyDetailsVC.swift; sourceTree = "<group>"; };
+		3DC0F7FA2AC0AF0B00035B54 /* fatihTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fatihTableView.swift; sourceTree = "<group>"; };
+		3DC0F7FC2AC0AF2300035B54 /* fatihDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fatihDetailsVC.swift; sourceTree = "<group>"; };
+		3DC0F7FE2AC0BDF500035B54 /* sariyerTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sariyerTableView.swift; sourceTree = "<group>"; };
+		3DC0F8002AC0BE0A00035B54 /* sariyerDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sariyerDetailsVC.swift; sourceTree = "<group>"; };
+		3DC0F8022AC0CA0E00035B54 /* sileTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sileTableView.swift; sourceTree = "<group>"; };
+		3DC0F8042AC0CA2200035B54 /* sileDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sileDetailsVC.swift; sourceTree = "<group>"; };
+		3DC0F8062AC0CA3C00035B54 /* uskudarTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = uskudarTableView.swift; sourceTree = "<group>"; };
+		3DC0F8082AC0CA5500035B54 /* uskudarDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = uskudarDetailsVC.swift; sourceTree = "<group>"; };
+		3DFCC5AB2AADA2E100441200 /* WelcomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +96,26 @@
 			children = (
 				3D4A423F2AAB9991005829E3 /* AppDelegate.swift */,
 				3D4A42412AAB9991005829E3 /* SceneDelegate.swift */,
+				3DFCC5AB2AADA2E100441200 /* WelcomeVC.swift */,
 				3D4A42432AAB9991005829E3 /* ViewController.swift */,
+				3DA5B3862AB609A50056E1E9 /* mainMenu.swift */,
+				3DA5B3882AB60B910056E1E9 /* adalarTableView.swift */,
+				3D3D6DDA2AB6F71C00191A1A /* adalarDetailsVC.swift */,
+				3DC0F7EC2AC0088400035B54 /* besiktasTableView.swift */,
+				3DC0F7F02AC0203900035B54 /* besiktasDetailsVC.swift */,
+				3DC0F7F22AC0317600035B54 /* beykozTableView.swift */,
+				3DC0F7F42AC0319200035B54 /* beykozDetailsVC.swift */,
+				3DC0F7FA2AC0AF0B00035B54 /* fatihTableView.swift */,
+				3DC0F7FC2AC0AF2300035B54 /* fatihDetailsVC.swift */,
+				3DC0F7F62AC03C8500035B54 /* kadikoyTableView.swift */,
+				3DC0F7F82AC03F9600035B54 /* kadikoyDetailsVC.swift */,
+				3DC0F7FE2AC0BDF500035B54 /* sariyerTableView.swift */,
+				3DC0F8002AC0BE0A00035B54 /* sariyerDetailsVC.swift */,
+				3DC0F8022AC0CA0E00035B54 /* sileTableView.swift */,
+				3DC0F8042AC0CA2200035B54 /* sileDetailsVC.swift */,
+				3DC0F8062AC0CA3C00035B54 /* uskudarTableView.swift */,
+				3DC0F8082AC0CA5500035B54 /* uskudarDetailsVC.swift */,
+				3DA5B3842AB0A2CE0056E1E9 /* travel.swift */,
 				3D4A42452AAB9991005829E3 /* Main.storyboard */,
 				3D4A42482AAB9994005829E3 /* Assets.xcassets */,
 				3D4A424A2AAB9994005829E3 /* LaunchScreen.storyboard */,
@@ -138,9 +195,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3DC0F7ED2AC0088400035B54 /* besiktasTableView.swift in Sources */,
+				3DA5B3892AB60B910056E1E9 /* adalarTableView.swift in Sources */,
+				3DC0F8052AC0CA2200035B54 /* sileDetailsVC.swift in Sources */,
 				3D4A42442AAB9991005829E3 /* ViewController.swift in Sources */,
+				3DC0F7F12AC0203900035B54 /* besiktasDetailsVC.swift in Sources */,
+				3DA5B3852AB0A2CE0056E1E9 /* travel.swift in Sources */,
 				3D4A42402AAB9991005829E3 /* AppDelegate.swift in Sources */,
+				3DC0F8092AC0CA5500035B54 /* uskudarDetailsVC.swift in Sources */,
+				3DC0F7FB2AC0AF0B00035B54 /* fatihTableView.swift in Sources */,
+				3D3D6DDB2AB6F71C00191A1A /* adalarDetailsVC.swift in Sources */,
+				3DA5B3872AB609A50056E1E9 /* mainMenu.swift in Sources */,
+				3DC0F8032AC0CA0E00035B54 /* sileTableView.swift in Sources */,
+				3DC0F8012AC0BE0A00035B54 /* sariyerDetailsVC.swift in Sources */,
+				3DC0F8072AC0CA3C00035B54 /* uskudarTableView.swift in Sources */,
 				3D4A42422AAB9991005829E3 /* SceneDelegate.swift in Sources */,
+				3DC0F7FD2AC0AF2300035B54 /* fatihDetailsVC.swift in Sources */,
+				3DC0F7FF2AC0BDF500035B54 /* sariyerTableView.swift in Sources */,
+				3DFCC5AC2AADA2E100441200 /* WelcomeVC.swift in Sources */,
+				3DC0F7F92AC03F9600035B54 /* kadikoyDetailsVC.swift in Sources */,
+				3DC0F7F72AC03C8500035B54 /* kadikoyTableView.swift in Sources */,
+				3DC0F7F32AC0317600035B54 /* beykozTableView.swift in Sources */,
+				3DC0F7F52AC0319200035B54 /* beykozDetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
